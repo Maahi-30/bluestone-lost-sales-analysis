@@ -30,7 +30,7 @@ The project focused on analyzing 300+ lost sales records across Bluestone stores
 
 These stores recorded the most lost sales, indicating high demand but unfulfilled orders.
 
-![TOP5_lostsales_stores](visuals/TOP5_lostsales_stores.png)
+![TOP5_lostsales_stores](Visuals/TOP5_lostsales_stores.png)
 
 ---
 
@@ -38,7 +38,7 @@ These stores recorded the most lost sales, indicating high demand but unfulfille
 
 Locations with the lowest lost sales—possibly due to low footfall or poor design assortment.
 
-![Bottom3_lostsales_stores](visuals/Bottom3_lostsales_stores.png)
+![Bottom3_lostsales_stores](Visuals/Bottom3_lostsales_stores.png)
 
 ---
 
@@ -46,7 +46,7 @@ Locations with the lowest lost sales—possibly due to low footfall or poor desi
 
 These combinations of item category, design type, and sub-category saw the highest lost sales.
 
-![TOP10_Jewellery_designs](visuals/TOP10_Jewellery_designs.png)
+![TOP10_Jewellery_designs](Visuals/TOP10_Jewellery_designs.png)
 
 ---
 
@@ -54,7 +54,7 @@ These combinations of item category, design type, and sub-category saw the highe
 
 Visual comparison between top-performing and underperforming stores to surface assortment gaps.
 
-![HighvsLow_demand_designcombinations](visuals/HighvsLow_demand_designcombinations.png)
+![HighvsLow_demand_designcombinations](Visuals/HighvsLow_demand_designcombinations.png)
 
 ---
 
@@ -62,7 +62,7 @@ Visual comparison between top-performing and underperforming stores to surface a
 
 Frequently requested combinations that stores struggled to fulfill.
 
-![TOP10_lostsales_designcombination](visuals/TOP10_lostsales_designcombination.png)
+![TOP10_lostsales_designcombination](Visuals/TOP10_lostsales_designcombination.png)
 
 ---
 
@@ -70,7 +70,7 @@ Frequently requested combinations that stores struggled to fulfill.
 
 Design combinations that dominated lost sales in bottom 3 stores.
 
-![Bottom3_lostsales_designcombination](visuals/Bottom3_lostsales_designcombination.png)
+![Bottom3_lostsales_designcombination](Visuals/Bottom3_lostsales_designcombination.png)
 
 ---
 
